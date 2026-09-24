@@ -116,7 +116,7 @@ management platform.
 - Spring Security configuration
 - REST API development
 
-🔗 **Repository:** [AroSetu](YOUR_AROSETU_REPOSITORY_LINK)
+🔗 **Repository:** [AroSetu](https://github.com/sudharshan-k-s/arosetu-healthcare-platform.git)
 
 ---
 
@@ -155,7 +155,7 @@ terrain conditions.
   - Recall
   - F1 Score
 
-🔗 **Repository:** [ForestWatch](YOUR_FORESTWATCH_REPOSITORY_LINK)
+🔗 **Repository:** [ForestWatch](https://github.com/nmit-1nt23cs245/forestwatch-deforestration-detection.git)
 
 ---
 
