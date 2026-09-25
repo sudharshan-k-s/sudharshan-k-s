@@ -1,6 +1,6 @@
 # Hi 👋, I'm SUDHARSHAN KS
 
-### Computer Science Engineering Student | Java Full-Stack Developer Aspirant | AI Enthusiast
+### Computer Science Engineering Student | Java Full-Stack Developer Aspirant | AI/ML & Networking Enthusiast
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sudharshan-k-s&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -17,6 +17,7 @@
 - 🗄️ Learning **SQL and PostgreSQL**
 - ⚛️ Exploring **React** for frontend development
 - 🤖 Interested in **AI/ML and real-world applications**
+- 📡 Interested in **4G/5G networks, wireless communication, and network optimization**
 - 🚀 I enjoy building projects while learning new technologies
 - 📚 Currently improving my **DSA, OOP, DBMS, OS, and Computer Networks** fundamentals
 
@@ -48,6 +49,22 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
+### AI / ML & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### Networking & Simulation
+
+- 4G / 5G Networks
+- 5G NR
+- ns-3
+- 5G-LENA
+- Network Simulation
+- Handover Optimization
+- Mobility Analysis
+
 ### Tools & Platforms
 
 <p align="left">
@@ -56,38 +73,58 @@
 
 ---
 
-# 📚 Currently Learning
+# 🚀 Featured Projects
 
-### ☕ Java
+## 📡 Cellora — Intelligent 4G/5G Handover Optimization
 
-I am currently learning Java from fundamentals and building my knowledge
-step-by-step through practical programs.
+**Cellora** is a research-oriented 4G/5G network optimization project focused on improving cellular handover decisions for mobile users.
 
-**Completed:**
+The project studies whether a **mobility- and network-context-aware handover strategy** can reduce unnecessary and ping-pong handovers while maintaining or improving Quality of Service (QoS) compared with conventional A3 RSRP-based handover.
 
-- ✅ Variables
-- ✅ User Input
+### 🛠️ Tech Stack
 
-**Currently Working On:**
+- C++
+- Python
+- ns-3.48
+- 5G-LENA v5.1
+- 5G NR
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Git / GitHub
 
-- 🔄 Operators & Expressions
-- ⏳ Conditional Statements
-- ⏳ Loops
-- ⏳ Methods
-- ⏳ Arrays
-- ⏳ Object-Oriented Programming
-- ⏳ Collections
-- ⏳ Exception Handling
-- ⏳ File Handling
-- ⏳ Multithreading
+### 🧠 Key Concepts
 
-📂 **Java Learning Repository**
+- 4G/5G Handover Optimization
+- A3 RSRP Handover Algorithm
+- Hysteresis
+- Time-to-Trigger (TTT)
+- UE Mobility
+- RSRP / RSRQ / SINR
+- Cell Load
+- Network Capacity
+- Machine Learning
+- QoS Analysis
 
-[![Java Learning](https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=java)](https://github.com/sudharshan-k-s/java-learning)
+### 🎯 Planned Features
+
+- Realistic 5G NR network simulation using **ns-3 and 5G-LENA**
+- Mobility-aware handover analysis
+- Radio measurement collection
+- Handover event tracking
+- ML-based handover decision support
+- Baseline vs intelligent handover comparison
+- Ping-pong handover analysis
+- Throughput, latency, packet-loss and QoS evaluation
+
+### 🔬 Research Question
+
+> Can an intelligent, mobility-aware handover strategy reduce unnecessary and ping-pong handovers while maintaining or improving user QoS compared with a conventional A3 RSRP-based strategy?
+
+🔗 **Repository:** [Cellora](https://github.com/sudharshan-k-s/cellora-intelligent-4g-5g-handover-optimization.git)
 
 ---
-
-# 🚀 Featured Projects
 
 ## 🏥 AroSetu — Personal Full-Stack Healthcare Platform
 
@@ -180,3 +217,75 @@ fundamentals to intermediate concepts.
 - Multithreading
 
 🔗 **Repository:** [Java Learning](https://github.com/sudharshan-k-s/java-learning)
+
+---
+
+## 📚 Currently Learning
+
+### ☕ Java
+
+Currently strengthening my Java fundamentals and progressing towards
+advanced Java and backend development.
+
+**Completed:**
+
+- ✅ Variables
+- ✅ User Input
+
+**Currently Working On:**
+
+- 🔄 Operators & Expressions
+- ⏳ Conditional Statements
+- ⏳ Loops
+- ⏳ Methods
+- ⏳ Arrays
+- ⏳ Object-Oriented Programming
+- ⏳ Collections
+- ⏳ Exception Handling
+- ⏳ File Handling
+- ⏳ Multithreading
+
+### 🌐 Full-Stack Development
+
+Currently building skills in:
+
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- React
+- Git / GitHub
+
+### 📡 Networking & AI
+
+Exploring:
+
+- Computer Networks
+- 4G / 5G Networks
+- 5G NR
+- Network Simulation
+- Machine Learning
+- AI-based optimization
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in opportunities involving:
+
+- 💻 Java Backend Development
+- 🌐 Full-Stack Development
+- 🤖 AI/ML Applications
+- 📡 4G/5G Networks
+- ☁️ Cloud & Distributed Systems
+- 🔧 Software Engineering
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/sudharshan-k-s">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
